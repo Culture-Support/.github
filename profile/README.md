@@ -16,7 +16,7 @@
 
 - Making Technology Protection
 
-- The Mind 
+- Virtual Protect Cover The Mind 
 - Body 
 - Person Treatment
 - Tactical Crimes 
@@ -25,3 +25,8 @@
 - Stopp Eye Vision Crimes
 - Stopp Spionage Crimes Spiritual
 - Stopp Spionage 👁️👁️‍🗨️ Spiritual 
+
+
+-------+
+
+Invisible Psychic Protection BODY SHIELDS
