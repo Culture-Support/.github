@@ -4,6 +4,8 @@
 
 - Hindering Spionage With Technology ©️
 
+- Stopping 👁️‍🗨️👁️ Hidden Spies 👁️👁️‍🗨️
+
 ------------
 
 - Taking Advanced Tactical Intrusive Awareness
