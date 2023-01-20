@@ -1,6 +1,6 @@
 # Culture.Support
 
-<h4> Stopping Spiritual Spionage With Technology</h4>
+- Stopping Spiritual Spionage With Technology ©️
 
 - Hindering Spionage With Technology ©️
 
