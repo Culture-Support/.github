@@ -8,7 +8,8 @@
 
 - Developing Eye Protection Virtual  🥸
 
-
+- Hindering Enemy Psychic Controll 🥸
+- Hindering Psychic Abuse 👳🏼‍♂️👳🏿‍♂️
 ------------
 
 - Taking Advanced Tactical Intrusive Awareness
