@@ -1,5 +1,9 @@
 # Culture.Support
 
+<h4> Stopping Spiritual Spionage With Technology</h4>
+
+- Hindering Spionage With Technology ©️
+
 ------------
 
 - Taking Advanced Tactical Intrusive Awareness
