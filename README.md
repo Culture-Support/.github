@@ -20,9 +20,15 @@ Building with Custom Bootstrap
 - Cdn ja Links 
 
 
+---------
 
-Html Document
-header
-Style
-Body
-Footer 
+- html
+- header
+- style
+- body
+- footer
+- body
+- html
+
+---------
+-----------
