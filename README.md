@@ -14,10 +14,12 @@
 
 ---------
 
-Building with Custom Bootstrap
+Building with Custom Bootstrap 
 
+
+- Bootstrap version 5.2
 - Css Library
-- Cdn ja Links 
+- Cdn js Links 
 
 
 ---------
