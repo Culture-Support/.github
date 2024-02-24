@@ -69,4 +69,5 @@ https://loopcloud.com
   and cheat save 50%
   membership cut
 
-https://www.pluginboutique.com/deals
+
+https://www.pluginboutique.com/search?qs=match&q=loopcloud+plugins&oses%5B%5D=
