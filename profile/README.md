@@ -23,10 +23,49 @@ to update and envolve
 
 what we use as dev tools :
 
-  🔗  https://canva.com
+- videos / effects
+- artificial intelligence
+- music productions
+- app design
+- web app design 
 
-  - canva design
+  https://canva.com
+
+  - app design
+  - web design
+  - social media design
+  - Ads and Adsense (mp4)
   
 https://filmora.wondershare.com/
 
-- Filmora
+- Film
+- Film Effects
+- Ads and Adsense
+- Video Promotions (mp4)
+
+https://ableton.com
+
+- MusicSFX
+- music video song
+- video song
+
+
+https://loopcloud.com
+
+- loops and drums
+- advanced music
+
+ 
+- mombathon
+- dubstep
+- drum n bass
+- hip hop
+
+  get save 50%
+  by order full features
+  trough pluginbotique
+
+  search loopcloud
+  and cheat save 50%
+  membership cut
+
