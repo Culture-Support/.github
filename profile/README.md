@@ -89,3 +89,8 @@ https://www.pluginboutique.com/product/3-Studio-Tools/68-Sample-Packs/10788-Loop
 
 - you will not get this offer in loopcloud.com official membership plan
 - if you go trough pluginbutique you save automatic 50 % of membership
+- collect key after shopped membership plan , and add into loopcloud plan order to reedem of voucheer from pluginbotique
+
+You Also gets months free artist beginner plan on some vst inside pluginbotique
+- then you can sometimes get both a vst synth or effect vst + loopcloud artist bonus order benefit
+- artist : producer studio : professional is selected plans on loopcloud
