@@ -71,3 +71,17 @@ https://loopcloud.com
 
 
 https://www.pluginboutique.com/search?qs=match&q=loopcloud+plugins&oses%5B%5D=
+
+
+
+
+
+https://www.pluginboutique.com/product/3-Studio-Tools/68-Sample-Packs/10788-Loopcloud-12-Month-Professional-Plan
+
+this plan enabled 7200 points 
+
+- enables drum plugin and play plugin
+
+- enjoys most of the loopcloud vst into ableton live
+
+- use points in standalone Drum Plugin and PlayPlugin or inside internal Loopcloud Cloud Vst 
