@@ -69,3 +69,4 @@ https://loopcloud.com
   and cheat save 50%
   membership cut
 
+https://www.pluginboutique.com/deals
