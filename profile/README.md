@@ -1,4 +1,4 @@
-## Hi there 👋
+Transperancy info ℹ️
 
 ✏️CONTACT Point For Write App 
 Projects enrolled 
