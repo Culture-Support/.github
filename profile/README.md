@@ -18,3 +18,10 @@ to update and envolve
 
  
  💎 User Priority is Repository Build
+
+
+
+what we use as dev tools :
+
+  🔗  https://canva.com
+    🔗 https://filmora.wondershare.com/
