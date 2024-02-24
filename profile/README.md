@@ -63,7 +63,7 @@ https://loopcloud.com
 
   get save 50%
   by order full features
-  trough pluginbotique
+  trough pluginboutique.com
 
   search loopcloud
   and cheat save 50%
@@ -88,9 +88,10 @@ this plan enabled 7200 points
 https://www.pluginboutique.com/product/3-Studio-Tools/68-Sample-Packs/10788-Loopcloud-12-Month-Professional-Plan
 
 - you will not get this offer in loopcloud.com official membership plan
-- if you go trough pluginbutique you save automatic 50 % of membership
+  - artist : producer studio : professional is membership plans on loopcloud
+- if you go trough pluginboutique.com you save automatic 50 % of membership
 - collect key after shopped membership plan , and add into loopcloud plan order to reedem of voucheer from pluginbotique
 
 You Also gets months free artist beginner plan on some vst inside pluginbotique
 - then you can sometimes get both a vst synth or effect vst + loopcloud artist bonus order benefit
-- artist : producer studio : professional is selected plans on loopcloud
+- artist : producer studio : professional is membership plans on loopcloud
