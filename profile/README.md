@@ -24,4 +24,4 @@ to update and envolve
 what we use as dev tools :
 
   🔗  https://canva.com
-    🔗 https://filmora.wondershare.com/
+  🔗 https://filmora.wondershare.com/
