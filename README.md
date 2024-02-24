@@ -1,2 +1,2 @@
 # .github
-Support Us in Development Tensors
+official organisation profile
