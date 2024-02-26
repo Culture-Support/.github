@@ -9,6 +9,16 @@ https://ableton.com
 
 https://canva.com
 
+
+Python Links :
+
+https://realpython.com/
+
+https://python.org 
+
+
+
+
 Profile Link :
 
 https://github.com/culturesupport
