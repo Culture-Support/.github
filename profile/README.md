@@ -50,3 +50,11 @@ https://css.master.co/
 
 --------------
 
+Machine Learning Links :
+
+https://www.tensorflow.org/datasets
+
+
+https://www.keras.io
+https://www.jupyter.org
+
