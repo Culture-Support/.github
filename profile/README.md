@@ -58,3 +58,11 @@ https://www.tensorflow.org/datasets
 https://www.keras.io
 https://www.jupyter.org
 
+
+
+
+--------------
+---------------
+
+ingen investering homo fra norge her
+
