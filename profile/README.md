@@ -64,5 +64,5 @@ https://www.jupyter.org
 --------------
 ---------------
 
-ingen investering homo fra norge her
-
+Nobody from
+Norway , Sweden , Denmark or Finland Here
