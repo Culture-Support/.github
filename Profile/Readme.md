@@ -12,7 +12,6 @@ Aid Down Syndrome in Aid
 
 
 ------
-
 1670 Billion is 2024
 Budget to Down Syndrome
 -------
@@ -23,5 +22,12 @@ Budget to Down Syndrome
 - Bengali
 - Hawaii
 
+----------
 
+Turning Apps for
+Down Syndrome in Financing
+Avaible With No Man in Middle
+or Cruel Hindering
+
+---------
 
