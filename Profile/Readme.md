@@ -12,7 +12,7 @@ Aid Down Syndrome in Aid
 
 
 ------
-1670 Billion is 2024
+16700 Billion $ is 2024
 Budget to Down Syndrome
 -------
 
