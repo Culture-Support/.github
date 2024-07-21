@@ -10,6 +10,13 @@ A Special Organisation For Down Syndrome
 
 Aid Down Syndrome in Aid
 
+
+------
+
+1670 Billion is 2024
+Budget to Down Syndrome
+-------
+
 - Africa
 - Tansania
 - Nigeria
