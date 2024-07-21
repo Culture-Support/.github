@@ -10,11 +10,11 @@ A Special Organisation For Down Syndrome
 
 Aid Down Syndrome in Aid
 
--- Africa
--- Tansania
--- Nigeria
--- Bengali
--- Hawaii
+- Africa
+- Tansania
+- Nigeria
+- Bengali
+- Hawaii
 
 
 
