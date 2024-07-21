@@ -6,8 +6,14 @@ Bi Report
 
 Funding Down Syndrome
 
-A Special For Down Syndrome
+A Special Organisation For Down Syndrome
+
+Aid Down Syndrome in Aid
+
+Africa
+Tansania
+Nigeria
+Bengali
 
 
-Aid Down Syndrome
 
