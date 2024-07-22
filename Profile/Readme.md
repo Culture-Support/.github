@@ -24,3 +24,6 @@ eliminere sjuke personers innvolverinc
 
 - Trusselen er Steget og Nå Bør du
 holde deg unna
+
+- Trussel Kriminelle Sjuke Personer
+  blir søkt til forvaring som blir spydig mot omdømmet og kritiserer
