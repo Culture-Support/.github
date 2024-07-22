@@ -8,3 +8,19 @@ Privacy Builded
 Force Company
 ---------
 
+
+
+- Er Alene Eier
+
+- Politi Anmeldt Norge
+  og Usa For Bedrageri
+
+  - Landene inneholder
+    Kriminelle Drapsmenn
+
+    - Søker til Drifte i Tunisia og
+    tilintet gjøre forfølger trussel og
+eliminere sjuke personers innvolverinc
+
+- Trusselen er Steget og Nå Bør du
+holde deg unna
