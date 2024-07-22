@@ -18,7 +18,7 @@ Private Ole
 -------
 
 - Tunisia Reisen , Vekk Fra Norsk
-  Trussel
+  Trussel og Usa Trussel
   ✈️ 👨🏻‍💼 
 
 - Blir Godt og Flytte Til Tunisia
