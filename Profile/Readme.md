@@ -43,3 +43,7 @@ personene utagerer voldelig atferd og plager folk.
 ------
 
 disse personene er syke og forkjølt , så orker ikke snuffsningen og sjikanen med ikke bli kvitt forkjølelsen
+
+----
+
+vi finner riktig våpen borte i tunisia vi kan sette  i våpen skapet
