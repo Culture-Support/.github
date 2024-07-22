@@ -38,3 +38,8 @@ art som ikke bidrar sikkerheten.
 - vi vet det er risiko for disse
 personene utagerer voldelig atferd og plager folk.
 - så kommet til 3 år vurdering at dem skal ikke være blandt oss mere og er alt for farlig , farligere enn terror nettverk
+
+
+------
+
+disse personene er syke og forkjølt , så orker ikke snuffsningen og sjikanen med ikke bli kvitt forkjølelsen
