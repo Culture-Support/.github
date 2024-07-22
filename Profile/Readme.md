@@ -21,3 +21,5 @@ Private Ole
   Trussel
   ✈️ 👨🏻‍💼 
 
+- Blir Godt og Flytte Til Tunisia
+  Hvor Eg Kan Være Uten Norge
