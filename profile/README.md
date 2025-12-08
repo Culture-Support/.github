@@ -1,12 +1,5 @@
-## Hi there 👋
+Formål,Forespørgsel
+"Find aktive elementer, der tilhører bruger 10.",status:aktiv owner_id:10
+"Find elementer, der er oprettet efter 2024-01-01.",date_created>2024-01-01
+"Find elementer, der enten er 'aktiv' ELLER har 'status:pending'.",status:aktiv OR status:pending
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
