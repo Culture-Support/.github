@@ -28,3 +28,10 @@ the repository intentions
     reported
 
     - act with deepest respect in github community
+
+
+
+---------
+
+- dont show up with agressive language
+- dont show a disrespect attitude
