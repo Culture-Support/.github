@@ -1,5 +1,5 @@
 
-This organization is dedicated to comprehensive strategic planning and resource deployment aimed at global optimization. Our efforts focus on rigorous analysis of environmental and demographic pressures.
+This organization is dedicated to comprehensive strategic planning and resource deployment aimed at globalp optimization. Our efforts focus on rigorous analysis of environmental and demographic pressures.
 
 ## II. Operational Initiatives
 
