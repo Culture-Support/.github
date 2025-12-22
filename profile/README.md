@@ -8,7 +8,7 @@
 
 -----------
 
-Dhatu (धातु) is an exceptionally powerful name for a programming language. In Sanskrit, it literally means "Root," "Element," or "Building Block." In linguistics, a Dhatu is the core verbal root from which all words are derived. For a language that compiles to Batch, this is the perfect metaphor: Dhatu provides the modern "root" logic that then expands into the complex "branches" of Windows Batch commands.
+Dhatu (धातु) is an exceptionally powerful name for a programming language. In Sanskrit, it literally means "Root," "Element," or "Building Block." In linguistics, a Dhatu is the core verbal root from which all words are derived. For a language that compiles to Batch, this is the perfect metaphor: Dhatu provides the modern "root" logic that then expands into the complex "branches" of Batch commands.
 1. The Language Spec: Dhatu
 Let's design the syntax to feel like a "Modern Ancient" language—clean, structural, and rooted in logic.
 Variable & Types
